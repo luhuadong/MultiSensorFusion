@@ -1,0 +1,9 @@
+.vscode/
+build/
+
+a.out
+*.a
+*.so
+*.swp
+*.csv
+*.txt
