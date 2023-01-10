@@ -24,5 +24,5 @@
 
 ## 测试环境
 
-我们在 NanoPi R6S 开发板上进行测试，运行 Ubuntu 22.04 操作系统，可以参考《[RK3588 平台环境搭建](/home/rudy/workspace/FusionPosition/MultiSensorFusion/docs/Environment.md)》部署测试环境。
+我们在 NanoPi R6S 开发板上进行测试，运行 Ubuntu 22.04 操作系统，可以参考《[RK3588 平台环境搭建](docs/Environment.md)》部署测试环境。
 
